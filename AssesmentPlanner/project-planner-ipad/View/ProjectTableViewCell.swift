@@ -53,5 +53,5 @@ class ProjectTableViewCell: UITableViewCell {
 }
 
 protocol ProjectTableViewCellDelegate {
-    func customCell(cell: ProjectTableViewCell, sender button: UIButton, data data: String)
+    func customCell(cell: ProjectTableViewCell, sender button: UIButton, data: String)
 }

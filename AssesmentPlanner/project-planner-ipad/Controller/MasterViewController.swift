@@ -267,7 +267,7 @@ class MasterViewController: UITableViewController, NSFetchedResultsControllerDel
 }
 
 extension MasterViewController: ProjectTableViewCellDelegate {
-    func customCell(cell: ProjectTableViewCell, sender button: UIButton, data data: String) {
+    func customCell(cell: ProjectTableViewCell, sender button: UIButton, data: String) {
         self.showPopoverFrom(cell: cell, forButton: button, forNotes: data)
     }
 }

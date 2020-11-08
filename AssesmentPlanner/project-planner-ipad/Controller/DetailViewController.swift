@@ -376,7 +376,7 @@ class DetailViewController: UIViewController, NSFetchedResultsControllerDelegate
 }
 
 extension DetailViewController: TaskTableViewCellDelegate {
-    func viewNotes(cell: TaskTableViewCell, sender button: UIButton, data data: String) {
+    func viewNotes(cell: TaskTableViewCell, sender button: UIButton, data: String) {
         self.showPopoverFrom(cell: cell, forButton: button, forNotes: data)
     }
 }

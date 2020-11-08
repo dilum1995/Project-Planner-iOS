@@ -186,6 +186,8 @@ class AddTaskViewController: UITableViewController, UIPopoverPresentationControl
                         print("Application Not Allowed to Display Notifications")
                     case .provisional:
                         print("Application Not Allowed to Display Notifications")
+                    case .ephemeral:
+                        print("Application Not Allowed to Display Notifications")
                     }
                 }
             }

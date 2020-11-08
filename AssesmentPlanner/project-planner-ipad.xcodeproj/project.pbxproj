@@ -409,7 +409,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dilumde.iit.assessment-planner-ipad";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dilum.project-planner-ipad";
 				PRODUCT_NAME = "Assessment Planner";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 2;
@@ -427,7 +427,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dilumde.iit.assessment-planner-ipad";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dilum.project-planner-ipad";
 				PRODUCT_NAME = "Assessment Planner";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 2;

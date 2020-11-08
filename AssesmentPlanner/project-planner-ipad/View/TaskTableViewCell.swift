@@ -70,5 +70,5 @@ class TaskTableViewCell: UITableViewCell {
 
 
 protocol TaskTableViewCellDelegate {
-    func viewNotes(cell: TaskTableViewCell, sender button: UIButton, data data: String)
+    func viewNotes(cell: TaskTableViewCell, sender button: UIButton, data: String)
 }
